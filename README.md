@@ -50,3 +50,36 @@ for payment settlement and verification.
   financial losses.
 - Service outages may result in SLA breaches with merchants and
   partners.
+
+  ## Risk Assessment Methodology
+
+This project follows a structured cybersecurity risk assessment
+approach aligned with industry practices used in FinTech and GRC
+roles.
+
+### Risk Identification
+Critical assets were identified across information, technical, and
+business domains. Threats were mapped to these assets using realistic
+FinTech threat scenarios, including external attacks and insider
+risks.
+
+### Risk Scoring
+Each risk was assessed using a qualitative risk scoring model:
+- Likelihood scored on a scale of 1 (Low) to 5 (High)
+- Impact scored on a scale of 1 (Low) to 5 (High)
+- Risk Score calculated as: Likelihood × Impact
+
+Risk levels were categorised as:
+- Low (1–5)
+- Medium (6–12)
+- High (15–25)
+
+### Risk Visualisation
+A risk heat map was created to visually represent the relationship
+between likelihood and impact, supporting prioritisation of risks for
+mitigation.
+
+### Framework Alignment
+Identified risks were mapped to relevant MITRE ATT&CK techniques to
+demonstrate alignment with recognised threat modelling frameworks.
+
