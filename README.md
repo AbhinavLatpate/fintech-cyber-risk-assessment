@@ -82,4 +82,26 @@ mitigation.
 ### Framework Alignment
 Identified risks were mapped to relevant MITRE ATT&CK techniques to
 demonstrate alignment with recognised threat modelling frameworks.
+## Third-Party / Vendor Risk Assessment
+
+In addition to internal cybersecurity risks, a third-party risk
+assessment was conducted for a critical payment processing vendor
+(CloudPay Services).
+
+The assessment includes:
+- Vendor profiling and criticality analysis
+- Identification of key vendor-related cyber, operational, and
+  compliance risks
+- Qualitative risk scoring and ownership assignment
+- Vendor due diligence checklist focused on security, compliance,
+  and business continuity controls
+
+This reflects how third-party risk is managed in FinTech and
+regulated environments where vendor dependencies introduce
+significant operational and regulatory exposure.
+
+## Project Artefacts
+- 📊 [Internal Risk Register & Heat Map](Risk_Register_PayWave.xlsx)
+- 📊 [Third-Party Vendor Risk Assessment](Vendor_Risk_Assessment_PayWave.xlsx)
+
 
